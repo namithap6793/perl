@@ -1,6 +1,6 @@
 $file=$ARGV[0];
 open(data,$file);
-print "arg:\t\t value:\n";
+print "argument:\t\t And value:\n";
 while(<data>)
 {
  $string=$_;
