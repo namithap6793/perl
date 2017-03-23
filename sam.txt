@@ -1,0 +1,1 @@
+Computer,Laptop,Acer,Toshiba,Dell,Azuz,IBM,Intel
